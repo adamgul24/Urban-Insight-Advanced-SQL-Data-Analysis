@@ -1,1 +1,5 @@
-
+crime_id, start_time, end_time, crime_type, location
+1, 2024-01-01 01:00:00, 2024-01-01 01:30:00, Theft, Downtown
+2, 2024-01-02 14:20:00, 2024-01-02 14:45:00, Assault, Uptown
+3, 2024-01-03 18:00:00, 2024-01-03 18:20:00, Burglary, Northside
+...
